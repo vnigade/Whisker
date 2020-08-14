@@ -5,4 +5,4 @@ I wrote software to control various hardware modules (linear actuators, TTL I/Os
 
 For more information on the research and results, see the Frontiers in Neural Circuits Journal article 
 
-"Neural Representation of Motor Output, Context and Behavioral Adaptation in Rat Medial Prefrontal Cortex During Learned Behavior" by Roel de Haan, Judith Lim, Sven A. van der Burg, Anton W. Pieneman, **Vinod Nigade**, Huibert D. Mansvelder, and Christiaan P. J. de Kock
+["Neural Representation of Motor Output, Context and Behavioral Adaptation in Rat Medial Prefrontal Cortex During Learned Behavior"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6174330/) by Roel de Haan, Judith Lim, Sven A. van der Burg, Anton W. Pieneman, <ins>**Vinod Nigade**</ins>, Huibert D. Mansvelder, and Christiaan P. J. de Kock
